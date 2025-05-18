@@ -20,4 +20,12 @@
 .book-content {
   line-height: 1.6;
   letter-spacing: 0.01em;
+  position: relative;
+  color: rgba(70, 70, 70, 0.9);
+  text-shadow: 
+  0px 1px 1px rgba(255, 255, 255, 0.6),
+  0px -1px 1px rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  font-weight: 500;
+  letter-spacing: 0.03em;
 }

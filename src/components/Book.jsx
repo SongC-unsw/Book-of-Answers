@@ -15,7 +15,7 @@ function Book({ bookContent, handleClick, currentLang}) {
     return (
         <div className="flex items-center justify-center min-h-screen">
             {bookContent ? (
-                <div className="flex p-8 items-center justify-center w-[1000px] h-[500px] shadow-2xl">
+                <div className="flex p-8 items-center justify-center w-[1000px] h-[500px] shadow-2xl embossed-card">
                     <p className={`book-content text-center w-full text-5xl ${getFontClass()}`}>{bookContent}</p>
                 </div>
             ) : (
