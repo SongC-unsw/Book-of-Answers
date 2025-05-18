@@ -3,6 +3,7 @@ import Book from './components/Book';
 import { useState, useEffect } from 'react';
 import answer from './answers.json';
 import LangPick from './components/langPick';
+import Footer from './components/Footer';
 function App() {
   const [bookContent, setBookContent] = useState("");
   const [lang, setLang] = useState('en');
@@ -34,6 +35,7 @@ function App() {
         <div>
           <Book bookContent={bookContent} handleClick={handleClick} currentLang={lang} />
         </div>
+        <Footer />
       </div>
     </>
   )
