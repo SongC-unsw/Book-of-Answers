@@ -39,7 +39,7 @@ The application's answer data is stored in the [`src/answers.json`](src/answers.
 *   `src/components/langPick.jsx`: Language picker component.
 *   `src/answers.json`: Stores multi-language answer data.
 *   `public/`: Static assets directory.
-*   `cover/`: Cover images directory.
+*   `public/cover/`: Cover images directory.
 
 ## License
 
