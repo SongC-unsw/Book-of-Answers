@@ -43,4 +43,4 @@ The application's answer data is stored in the [`src/answers.json`](src/answers.
 
 ## License
 
-[Insert license information here]
+MIT License
