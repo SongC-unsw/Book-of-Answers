@@ -4,7 +4,7 @@ import * as ToggleGroup from "@radix-ui/react-toggle-group";
 const toggleGroupItemClasses =
     "flex size-[35px] items-center justify-center bg-white/50 leading-4 text-mauve11/70 first:rounded-l last:rounded-r hover:bg-violet3 focus:z-10 focus:shadow-[0_0_0_2px] focus:shadow-black focus:outline-none data-[state=on]:bg-violet6 data-[state=on]:text-violet12 data-[state=on]:!shadow-[inset_0_2px_4px_rgba(0,0,0,0.2)] data-[state=on]:brightness-110 transition-all duration-200";
 
-// 接收一个 onLanguageChange 属性来向父组件传递语言变化
+
 const LanguagePicker = ({ currentLang = "en", onLanguageChange }) => {
   const handleLangPick = (value) => {
     if (value && onLanguageChange) {
