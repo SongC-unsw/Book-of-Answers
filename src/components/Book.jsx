@@ -20,7 +20,7 @@ function Book({ bookContent, handleClick, currentLang}) {
                 </div>
             ) : (
                 <div className="flex flex-col items-center justify-center gap-3">
-                    <h1 className="font-bold text-4xl">Click to find out</h1>
+                    <h1 className="font-bold text-center text-4xl">Click to find out</h1>
                     <img
                         src={bookCoverImage}
                         alt="Book of Answer"
