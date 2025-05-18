@@ -27,8 +27,14 @@ function App() {
 
   return (
     <>
-      <LangPick currentLang={lang} onLanguageChange={onLanguageChange}/>
-      <Book bookContent={bookContent} handleClick={handleClick} currentLang={lang}/>
+      <div className='relative w-full'>
+        <div className='absolute top-4 right-4 z-10'>
+          <LangPick currentLang={lang} onLanguageChange={onLanguageChange} />
+        </div>
+        <div>
+          <Book bookContent={bookContent} handleClick={handleClick} currentLang={lang} />
+        </div>
+      </div>
     </>
   )
 };
