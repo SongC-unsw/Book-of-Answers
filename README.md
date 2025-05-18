@@ -1,12 +1,46 @@
-# React + Vite
+# Book of Answer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that simulates the functionality of a "Book of Answer". Users can click on the book cover to get a random answer.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **Random Answers**: Each click on the book cover displays a random answer.
+*   **Multi-language Support**: Supports answers in Chinese, Japanese, and English.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*   React
+*   Vite
+*   Radix UI (for language picker component)
+*   Tailwind CSS (inferred from file list)
+
+## Installation and Running
+
+1.  Clone the repository to your local machine.
+2.  Navigate to the project directory.
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+4.  Run the development server:
+    ```bash
+    npm run dev
+    ```
+5.  Open the displayed address in your browser.
+
+## Data Source
+
+The application's answer data is stored in the [`src/answers.json`](src/answers.json) file.
+
+## File Structure
+
+*   `src/App.jsx`: Main application component, handles state and logic.
+*   `src/components/Book.jsx`: Book component, responsible for displaying answers or the cover.
+*   `src/components/langPick.jsx`: Language picker component.
+*   `src/answers.json`: Stores multi-language answer data.
+*   `public/`: Static assets directory.
+*   `cover/`: Cover images directory.
+
+## License
+
+[Insert license information here]
