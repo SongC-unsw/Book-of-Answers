@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "cn": "你的愿望将会实现。",
+        "en": "Your wish will come true.",
+        "jp": "あなたの願いは叶うでしょう。"
+    },
+    {
+        "id": 2,
+        "cn": "现在不是时候。",
+        "en": "Now is not the time.",
+        "jp": "今はその時ではありません。"
+    },
+    {
+        "id": 3,
+        "cn": "依靠你的直觉。",
+        "en": "Trust your intuition.",
+        "jp": "あなたの直感を信じてください。"
+    },
+    {
+        "id": 4,
+        "cn": "答案就在你心中。",
+        "en": "The answer is within you.",
+        "jp": "答えはあなたの中にあります。"
+    },
+    {
+        "id": 5,
+        "cn": "保持耐心。",
+        "en": "Be patient.",
+        "jp": "忍耐強くありなさい。"
+    },
+    {
+        "id": 6,
+        "cn": "寻求建议。",
+        "en": "Seek advice.",
+        "jp": "助言を求めなさい。"
+    },
+    {
+        "id": 7,
+        "cn": "是的，很有可能。",
+        "en": "Yes, it is very likely.",
+        "jp": "はい、可能性は非常に高いです。"
+    },
+    {
+        "id": 8,
+        "cn": "不确定。",
+        "en": "Uncertain.",
+        "jp": "不確かです。"
+    },
+    {
+        "id": 9,
+        "cn": "专注于当下。",
+        "en": "Focus on the present.",
+        "jp": "今に集中しなさい。"
+    },
+    {
+        "id": 10,
+        "cn": "会有积极的结果。",
+        "en": "There will be a positive outcome.",
+        "jp": "肯定的な結果になるでしょう。"
+    },
+    {
+        "id": 11,
+        "cn": "需要更多信息。",
+        "en": "More information is needed.",
+        "jp": "より多くの情報が必要です。"
+    },
+    {
+        "id": 12,
+        "cn": "相信过程。",
+        "en": "Trust the process.",
+        "jp": "プロセスを信じなさい。"
+    },
+    {
+        "id": 13,
+        "cn": "改变你的方法。",
+        "en": "Change your approach.",
+        "jp": "アプローチを変えなさい。"
+    },
+    {
+        "id": 14,
+        "cn": "等待更好的时机。",
+        "en": "Wait for a better time.",
+        "jp": "より良い時を待ちましょう。"
+    },
+    {
+        "id": 15,
+        "cn": "与他人合作。",
+        "en": "Collaborate with others.",
+        "jp": "他の人と協力しなさい。"
+    },
+    {
+        "id": 16,
+        "cn": "风险太高。",
+        "en": "The risk is too high.",
+        "jp": "リスクが高すぎます。"
+    },
+    {
+        "id": 17,
+        "cn": "继续前进。",
+        "en": "Keep moving forward.",
+        "jp": "前進し続けなさい。"
+    },
+    {
+        "id": 18,
+        "cn": "重新评估你的目标。",
+        "en": "Re-evaluate your goals.",
+        "jp": "目標を再評価しなさい。"
+    },
+    {
+        "id": 19,
+        "cn": "一个惊喜正在等着你。",
+        "en": "A surprise awaits you.",
+        "jp": "驚きがあなたを待っています。"
+    },
+    {
+        "id": 20,
+        "cn": "不要放弃。",
+        "en": "Do not give up.",
+        "jp": "諦めないでください。"
+    },
+    {
+        "id": 21,
+        "cn": "寻求内心的平静。",
+        "en": "Seek inner peace.",
+        "jp": "心の平和を求めなさい。"
+    },
+    {
+        "id": 22,
+        "cn": "是时候放手了。",
+        "en": "It is time to let go.",
+        "jp": "手放す時です。"
+    },
+    {
+        "id": 23,
+        "cn": "一个新的开始。",
+        "en": "A new beginning.",
+        "jp": "新しい始まりです。"
+    },
+    {
+        "id": 24,
+        "cn": "保持开放的心态。",
+        "en": "Keep an open mind.",
+        "jp": "心を開いていなさい。"
+    },
+    {
+        "id": 25,
+        "cn": "你的努力会得到回报。",
+        "en": "Your efforts will be rewarded.",
+        "jp": "あなたの努力は報われるでしょう。"
+    },
+    {
+        "id": 26,
+        "cn": "小心行事。",
+        "en": "Proceed with caution.",
+        "jp": "注意して進みなさい。"
+    },
+    {
+        "id": 27,
+        "cn": "相信宇宙。",
+        "en": "Trust the universe.",
+        "jp": "宇宙を信じなさい。"
+    },
+    {
+        "id": 28,
+        "cn": "一个机会即将到来。",
+        "en": "An opportunity is coming.",
+        "jp": "機会が近づいています。"
+    },
+    {
+        "id": 29,
+        "cn": "倾听你的心声。",
+        "en": "Listen to your heart.",
+        "jp": "あなたの心に耳を傾けなさい。"
+    },
+    {
+        "id": 30,
+        "cn": "需要做出决定。",
+        "en": "A decision needs to be made.",
+        "jp": "決断が必要です。"
+    },
+    {
+        "id": 31,
+        "cn": "一切都会好起来的。",
+        "en": "Everything will be alright.",
+        "jp": "すべてうまくいくでしょう。"
+    },
+    {
+        "id": 32,
+        "cn": "不要害怕失败。",
+        "en": "Do not fear failure.",
+        "jp": "失敗を恐れないでください。"
+    },
+    {
+        "id": 33,
+        "cn": "寻求平衡。",
+        "en": "Seek balance.",
+        "jp": "バランスを求めなさい。"
+    },
+    {
+        "id": 34,
+        "cn": "一个重要的教训。",
+        "en": "An important lesson.",
+        "jp": "重要な教訓です。"
+    },
+    {
+        "id": 35,
+        "cn": "保持积极的态度。",
+        "en": "Maintain a positive attitude.",
+        "jp": "肯定的な態度を保ちなさい。"
+    },
+    {
+        "id": 36,
+        "cn": "是时候休息了。",
+        "en": "It is time to rest.",
+        "jp": "休む時です。"
+    },
+    {
+        "id": 37,
+        "cn": "跟随你的梦想。",
+        "en": "Follow your dreams.",
+        "jp": "あなたの夢を追いなさい。"
+    },
+    {
+        "id": 38,
+        "cn": "一个意想不到的转折。",
+        "en": "An unexpected turn.",
+        "jp": "予期せぬ展開です。"
+    },
+    {
+        "id": 39,
+        "cn": "保持真实。",
+        "en": "Be true to yourself.",
+        "jp": "自分自身に正直でありなさい。"
+    },
+    {
+        "id": 40,
+        "cn": "需要耐心和毅力。",
+        "en": "Requires patience and perseverance.",
+        "jp": "忍耐と根気が必要です。"
+    },
+    {
+        "id": 41,
+        "cn": "一个有益的经历。",
+        "en": "A rewarding experience.",
+        "jp": "やりがいのある経験です。"
+    },
+    {
+        "id": 42,
+        "cn": "不要急于求成。",
+        "en": "Do not rush.",
+        "jp": "急いではいけません。"
+    },
+    {
+        "id": 43,
+        "cn": "寻求帮助。",
+        "en": "Ask for help.",
+        "jp": "助けを求めなさい。"
+    },
+    {
+        "id": 44,
+        "cn": "一个积极的改变。",
+        "en": "A positive change.",
+        "jp": "肯定的な変化です。"
+    },
+    {
+        "id": 45,
+        "cn": "相信自己。",
+        "en": "Believe in yourself.",
+        "jp": "自分自身を信じなさい。"
+    },
+    {
+        "id": 46,
+        "cn": "需要反思。",
+        "en": "Requires reflection.",
+        "jp": "反省が必要です。"
+    },
+    {
+        "id": 47,
+        "cn": "一个新的视角。",
+        "en": "A new perspective.",
+        "jp": "新しい視点です。"
+    },
+    {
+        "id": 48,
+        "cn": "保持警惕。",
+        "en": "Stay alert.",
+        "jp": "警戒を怠らないでください。"
+    },
+    {
+        "id": 49,
+        "cn": "一个重要的联系。",
+        "en": "An important connection.",
+        "jp": "重要なつながりです。"
+    },
+    {
+        "id": 50,
+        "cn": "是时候行动了。",
+        "en": "It is time to act.",
+        "jp": "行動する時です。"
+    },
+    {
+        "id": 51,
+        "cn": "不要害怕表达自己。",
+        "en": "Do not be afraid to express yourself.",
+        "jp": "自分自身を表現することを恐れないでください。"
+    },
+    {
+        "id": 52,
+        "cn": "一个挑战。",
+        "en": "A challenge.",
+        "jp": "挑戦です。"
+    },
+    {
+        "id": 53,
+        "cn": "保持开放的态度。",
+        "en": "Keep an open attitude.",
+        "jp": "オープンな態度を保ちなさい。"
+    },
+    {
+        "id": 54,
+        "cn": "一个积极的信号。",
+        "en": "A positive sign.",
+        "jp": "肯定的な兆候です。"
+    },
+    {
+        "id": 55,
+        "cn": "相信你的能力。",
+        "en": "Trust your abilities.",
+        "jp": "あなたの能力を信じなさい。"
+    },
+    {
+        "id": 56,
+        "cn": "需要耐心。",
+        "en": "Patience is required.",
+        "jp": "忍耐が必要です。"
+    },
+    {
+        "id": 57,
+        "cn": "一个意想不到的帮助。",
+        "en": "Unexpected help.",
+        "jp": "予期せぬ助けです。"
+    },
+    {
+        "id": 58,
+        "cn": "保持专注。",
+        "en": "Stay focused.",
+        "jp": "集中しなさい。"
+    },
+    {
+        "id": 59,
+        "cn": "一个重要的决定。",
+        "en": "An important decision.",
+        "jp": "重要な決断です。"
+    },
+    {
+        "id": 60,
+        "cn": "是时候放慢脚步了。",
+        "en": "It is time to slow down.",
+        "jp": "ペースを落とす時です。"
+    },
+    {
+        "id": 61,
+        "cn": "一个积极的进展。",
+        "en": "A positive development.",
+        "jp": "肯定的な進展です。"
+    },
+    {
+        "id": 62,
+        "cn": "不要害怕改变。",
+        "en": "Do not fear change.",
+        "jp": "変化を恐れないでください。"
+    },
+    {
+        "id": 63,
+        "cn": "寻求和谐。",
+        "en": "Seek harmony.",
+        "jp": "調和を求めなさい。"
+    },
+    {
+        "id": 64,
+        "cn": "一个有价值的经验。",
+        "en": "A valuable experience.",
+        "jp": "貴重な経験です。"
+    },
+    {
+        "id": 65,
+        "cn": "保持乐观。",
+        "en": "Stay optimistic.",
+        "jp": "楽観的でありなさい。"
+    },
+    {
+        "id": 66,
+        "cn": "是时候休息和恢复了。",
+        "en": "It is time for rest and recovery.",
+        "jp": "休息と回復の時です。"
+    },
+    {
+        "id": 67,
+        "cn": "跟随你的热情。",
+        "en": "Follow your passion.",
+        "jp": "あなたの情熱に従いなさい。"
+    },
+    {
+        "id": 68,
+        "cn": "一个意想不到的机会。",
+        "en": "An unexpected opportunity.",
+        "jp": "予期せぬ機会です。"
+    },
+    {
+        "id": 69,
+        "cn": "保持诚实。",
+        "en": "Be honest.",
+        "jp": "正直でありなさい。"
+    },
+    {
+        "id": 70,
+        "cn": "需要耐心和理解。",
+        "en": "Requires patience and understanding.",
+        "jp": "忍耐と理解が必要です。"
+    },
+    {
+        "id": 71,
+        "cn": "一个有意义的联系。",
+        "en": "A meaningful connection.",
+        "jp": "意味のあるつながりです。"
+    },
+    {
+        "id": 72,
+        "cn": "不要急于下结论。",
+        "en": "Do not jump to conclusions.",
+        "jp": "早まった結論を出さないでください。"
+    },
+    {
+        "id": 73,
+        "cn": "寻求指导。",
+        "en": "Seek guidance.",
+        "jp": "指導を求めなさい。"
+    },
+    {
+        "id": 74,
+        "cn": "一个积极的结果。",
+        "en": "A positive outcome.",
+        "jp": "肯定的な結果です。"
+    },
+    {
+        "id": 75,
+        "cn": "相信你的判断。",
+        "en": "Trust your judgment.",
+        "jp": "あなたの判断を信じなさい。"
+    },
+    {
+        "id": 76,
+        "cn": "需要适应。",
+        "en": "Adaptation is required.",
+        "jp": "適応が必要です。"
+    },
+    {
+        "id": 77,
+        "cn": "一个新的方向。",
+        "en": "A new direction.",
+        "jp": "新しい方向です。"
+    },
+    {
+        "id": 78,
+        "cn": "保持警觉。",
+        "en": "Stay vigilant.",
+        "jp": "警戒を怠らないでください。"
+    },
+    {
+        "id": 79,
+        "cn": "一个重要的合作。",
+        "en": "An important collaboration.",
+        "jp": "重要な協力です。"
+    },
+    {
+        "id": 80,
+        "cn": "是时候放手过去。",
+        "en": "It is time to let go of the past.",
+        "jp": "過去を手放す時です。"
+    },
+    {
+        "id": 81,
+        "cn": "不要害怕冒险。",
+        "en": "Do not be afraid to take risks.",
+        "jp": "リスクを冒すことを恐れないでください。"
+    },
+    {
+        "id": 82,
+        "cn": "一个机会之窗。",
+        "en": "A window of opportunity.",
+        "jp": "機会の窓です。"
+    },
+    {
+        "id": 83,
+        "cn": "倾听你的内心声音。",
+        "en": "Listen to your inner voice.",
+        "jp": "あなたの内なる声に耳を傾けなさい。"
+    },
+    {
+        "id": 84,
+        "cn": "需要仔细考虑。",
+        "en": "Careful consideration is needed.",
+        "jp": "慎重な検討が必要です。"
+    },
+    {
+        "id": 85,
+        "cn": "一切都在按计划进行。",
+        "en": "Everything is proceeding as planned.",
+        "jp": "すべて計画通りに進んでいます。"
+    },
+    {
+        "id": 86,
+        "cn": "不要害怕寻求帮助。",
+        "en": "Do not be afraid to ask for help.",
+        "jp": "助けを求めることを恐れないでください。"
+    },
+    {
+        "id": 87,
+        "cn": "寻求内心的力量。",
+        "en": "Seek inner strength.",
+        "jp": "内なる力を求めなさい。"
+    },
+    {
+        "id": 88,
+        "cn": "一个重要的启示。",
+        "en": "An important revelation.",
+        "jp": "重要な啓示です。"
+    },
+    {
+        "id": 89,
+        "cn": "保持积极的思维。",
+        "en": "Maintain positive thinking.",
+        "jp": "肯定的な思考を保ちなさい。"
+    },
+    {
+        "id": 90,
+        "cn": "是时候采取行动了。",
+        "en": "It is time to take action.",
+        "jp": "行動を起こす時です。"
+    },
+    {
+        "id": 91,
+        "cn": "一个有前途的未来。",
+        "en": "A promising future.",
+        "jp": "有望な未来です。"
+    },
+    {
+        "id": 92,
+        "cn": "不要害怕表达你的感受。",
+        "en": "Do not be afraid to express your feelings.",
+        "jp": "あなたの感情を表現することを恐れないでください。"
+    },
+    {
+        "id": 93,
+        "cn": "寻求理解。",
+        "en": "Seek understanding.",
+        "jp": "理解を求めなさい。"
+    },
+    {
+        "id": 94,
+        "cn": "一个积极的反馈。",
+        "en": "Positive feedback.",
+        "jp": "肯定的なフィードバックです。"
+    },
+    {
+        "id": 95,
+        "cn": "相信你的直觉。",
+        "en": "Trust your instincts.",
+        "jp": "あなたの直感を信じなさい。"
+    },
+    {
+        "id": 96,
+        "cn": "需要耐心和毅力。",
+        "en": "Patience and perseverance are needed.",
+        "jp": "忍耐と根気が必要です。"
+    },
+    {
+        "id": 97,
+        "cn": "一个新的开始。",
+        "en": "A fresh start.",
+        "jp": "新たな始まりです。"
+    },
+    {
+        "id": 98,
+        "cn": "保持开放的心态。",
+        "en": "Keep an open mind.",
+        "jp": "心を開いていなさい。"
+    },
+    {
+        "id": 99,
+        "cn": "你的努力会得到回报。",
+        "en": "Your hard work will pay off.",
+        "jp": "あなたの努力は報われるでしょう。"
+    },
+    {
+        "id": 100,
+        "cn": "小心行事。",
+        "en": "Proceed with caution.",
+        "jp": "注意して進みなさい。"
+    }
+]
