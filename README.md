@@ -12,7 +12,7 @@ This is a simple React application that simulates the functionality of a "Book o
 *   React
 *   Vite
 *   Radix UI (for language picker component)
-*   Tailwind CSS (inferred from file list)
+*   Tailwind CSS
 
 ## Installation and Running
 
