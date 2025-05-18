@@ -1,1 +1,24 @@
 @import "tailwindcss";
+/* 导入 Google 衬线字体 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Noto+Serif+SC:wght@400;700&family=Noto+Serif+JP:wght@400;700&display=swap');
+
+/* 为不同语言定义传统衬线字体类 */
+.font-chinese {
+  font-family: 'Noto Serif SC', 'STSong', '宋体', 'SimSun', serif;
+  /* 宋体是中文最传统的衬线体之一 */
+}
+
+.font-japanese {
+  font-family: 'Noto Serif JP', 'Yu Mincho', 'YuMincho', 'MS Mincho', serif;
+  /* 明朝体是日文传统衬线体 */
+}
+
+.font-english {
+  font-family: 'Noto Serif', 'Times New Roman', 'Georgia', serif;
+  /* Times New Roman 是英文中最经典的衬线字体 */
+}
+
+.book-content {
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+}
